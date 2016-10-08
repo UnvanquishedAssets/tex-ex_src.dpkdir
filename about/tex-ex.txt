@@ -1,0 +1,33 @@
+textures/shared_ex_src/*
+
+    Author
+
+        Yves 'evillair' Allaire (http://evillair.net/)
+
+    License
+
+        Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
+        (https://creativecommons.org/licenses/by-nc-nd/3.0/)
+     
+        The author allows the following modifications:
+        - You may change the color of any "texturename.blend.tga/.jpg" or hue
+          to fit the style of your map.
+             
+        The author granted Unvanquished Development to make derivate works of
+        his textures.
+
+    Notes
+
+        - Glow maps now end in "_a.*" instead of ".blend.*".
+        - "*_p.*" files are preview images generated from the diffuse maps.
+
+    Changes
+
+        - Glow maps have been desaturated and put into grayscale mode.
+        - Completely white alpha channels were removed.
+        - File formats may have been converted.
+
+    Source
+
+        http://www.evillair.net/v2/index.php?option=com_content&task=view&id=28&Itemid=43
+
