@@ -6,16 +6,9 @@ textures/shared_ex_src/*
 
     License
 
-        Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License
-        (https://creativecommons.org/licenses/by-nc-nd/3.0/)
+        Creative Commons Attribution-ShareAlike 4.0 International
+        (https://creativecommons.org/licenses/by-sa/4.0/)
      
-        The author allows the following modifications:
-        - You may change the color of any "texturename.blend.tga/.jpg" or hue
-          to fit the style of your map.
-             
-        The author granted Unvanquished Development to make derivate works of
-        his textures.
-
     Notes
 
         - Glow maps now end in "_a.*" instead of ".blend.*".
@@ -29,5 +22,5 @@ textures/shared_ex_src/*
 
     Source
 
-        http://www.evillair.net/v2/index.php?option=com_content&task=view&id=28&Itemid=43
+        http://evillair.net/v3/pages/textures/ex.php
 
