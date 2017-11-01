@@ -1,4 +1,3 @@
 build/
 .paktrace/
-scripts/shared_ex.shader
 textures/shared_ex_src/*_p.jpg
