@@ -326,7 +326,7 @@ textures/shared_ex/light1_blue_1500
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -334,9 +334,9 @@ textures/shared_ex/light1_blue_1500
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -345,7 +345,7 @@ textures/shared_ex/light1_blue_3000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -353,9 +353,9 @@ textures/shared_ex/light1_blue_3000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -364,7 +364,7 @@ textures/shared_ex/light1_blue_6000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -372,9 +372,9 @@ textures/shared_ex/light1_blue_6000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -392,7 +392,7 @@ textures/shared_ex/light1_orange_1500
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -400,9 +400,9 @@ textures/shared_ex/light1_orange_1500
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -411,7 +411,7 @@ textures/shared_ex/light1_orange_3000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -419,9 +419,9 @@ textures/shared_ex/light1_orange_3000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -430,7 +430,7 @@ textures/shared_ex/light1_orange_6000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -438,9 +438,9 @@ textures/shared_ex/light1_orange_6000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -449,7 +449,7 @@ textures/shared_ex/light1_red_1500
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -457,9 +457,9 @@ textures/shared_ex/light1_red_1500
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -468,7 +468,7 @@ textures/shared_ex/light1_red_3000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -476,9 +476,9 @@ textures/shared_ex/light1_red_3000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -487,7 +487,7 @@ textures/shared_ex/light1_red_6000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -495,9 +495,9 @@ textures/shared_ex/light1_red_6000
 	{
 		map   textures/shared_ex_src/light1_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -506,7 +506,7 @@ textures/shared_ex/light1_white_1500
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -519,7 +519,7 @@ textures/shared_ex/light1_white_3000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -532,7 +532,7 @@ textures/shared_ex/light1_white_6000
 	qer_editorImage     textures/shared_ex_src/light1_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light1_d
 	normalMap           textures/shared_ex_src/light1_n
@@ -545,7 +545,7 @@ textures/shared_ex/light2_blue_1500
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -553,9 +553,9 @@ textures/shared_ex/light2_blue_1500
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -564,7 +564,7 @@ textures/shared_ex/light2_blue_3000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -572,9 +572,9 @@ textures/shared_ex/light2_blue_3000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -583,7 +583,7 @@ textures/shared_ex/light2_blue_6000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      0.482 0.702 1.000
+	q3map_lightRGB      .482 .702 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -591,9 +591,9 @@ textures/shared_ex/light2_blue_6000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   0.417
-		green 0.654
-		blue  1.000
+		red   .417
+		green .654
+		blue  1
 	}
 }
 
@@ -611,7 +611,7 @@ textures/shared_ex/light2_orange_1500
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -619,9 +619,9 @@ textures/shared_ex/light2_orange_1500
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -630,7 +630,7 @@ textures/shared_ex/light2_orange_3000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -638,9 +638,9 @@ textures/shared_ex/light2_orange_3000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -649,7 +649,7 @@ textures/shared_ex/light2_orange_6000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 0.729 0.376
+	q3map_lightRGB      1 .729 .376
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -657,9 +657,9 @@ textures/shared_ex/light2_orange_6000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.685
-		blue  0.310
+		red   1
+		green .685
+		blue  .31
 	}
 }
 
@@ -668,7 +668,7 @@ textures/shared_ex/light2_red_1500
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -676,9 +676,9 @@ textures/shared_ex/light2_red_1500
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -687,7 +687,7 @@ textures/shared_ex/light2_red_3000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -695,9 +695,9 @@ textures/shared_ex/light2_red_3000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -706,7 +706,7 @@ textures/shared_ex/light2_red_6000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 0.424 0.380
+	q3map_lightRGB      1 .424 .38
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -714,9 +714,9 @@ textures/shared_ex/light2_red_6000
 	{
 		map   textures/shared_ex_src/light2_a
 		blend add
-		red   1.000
-		green 0.357
-		blue  0.314
+		red   1
+		green .357
+		blue  .314
 	}
 }
 
@@ -725,7 +725,7 @@ textures/shared_ex/light2_white_1500
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  1500
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -738,7 +738,7 @@ textures/shared_ex/light2_white_3000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  3000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
@@ -751,7 +751,7 @@ textures/shared_ex/light2_white_6000
 	qer_editorImage     textures/shared_ex_src/light2_d
 
 	q3map_surfacelight  6000
-	q3map_lightRGB      1.000 1.000 1.000
+	q3map_lightRGB      1 1 1
 
 	diffuseMap          textures/shared_ex_src/light2_d
 	normalMap           textures/shared_ex_src/light2_n
