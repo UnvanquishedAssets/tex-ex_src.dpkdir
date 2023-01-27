@@ -1,26 +1,25 @@
 textures/shared_ex_src/*
 
-    Author
+	Author
 
-        Yves 'evillair' Allaire (http://evillair.net/)
+		Yves 'evillair' Allaire (http://evillair.net/)
 
-    License
+	License
 
-        Creative Commons Attribution-ShareAlike 4.0 International
-        (https://creativecommons.org/licenses/by-sa/4.0/)
-     
-    Notes
+		Creative Commons Attribution-ShareAlike 4.0 International
+		(https://creativecommons.org/licenses/by-sa/4.0/)
 
-        - Glow maps now end in "_a.*" instead of ".blend.*".
-        - "*_p.*" files are preview images generated from the diffuse maps.
+	Notes
 
-    Changes
+		- Glow maps now end in "_a.*" instead of ".blend.*".
+		- "*_p.*" files are preview images generated from the diffuse maps.
 
-        - Glow maps have been desaturated and put into grayscale mode.
-        - Completely white alpha channels were removed.
-        - File formats may have been converted.
+	Changes
 
-    Source
+		- Glow maps have been desaturated and put into grayscale mode.
+		- Completely white alpha channels were removed.
+		- File formats may have been converted.
 
-        http://evillair.net/v3/pages/textures/ex.php
+	Source
 
+		http://evillair.net/v3/pages/textures/ex.php
